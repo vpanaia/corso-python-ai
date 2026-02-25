@@ -1,0 +1,10 @@
+numeri = [3,6,9,12,15,18,21,24,27,30]
+creare un dizionario
+chiave -> numero
+valore -> numero diviso 3
+
+nomi = ["Anna", "Ciccio", "Francesca", "Annibale"]
+creare un dizionario
+chiave -> nome
+valore -> "Lungo" se la lunghezza è maggiore di 5.
+    altrimenti "Corto"
