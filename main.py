@@ -1,10 +1,9 @@
-numeri = [1,2,3,4]
-quadrati = [numero ** 2 for numero in numeri]
+import calcoli
 
-# [trasformazione for elemento in elementi]
-print(quadrati)
+a = 10
+b = 0
 
-
-# for numero in numeri:
-#    quadrati.append(numero**2)
-
+print(calcoli.somma(a, b))
+print(calcoli.differenza(a, b))
+print(calcoli.prodotto(a, b))
+print(calcoli.divisione(a, b))
