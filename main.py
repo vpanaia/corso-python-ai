@@ -1,7 +1,7 @@
 import calcoli
 
-a = 10
-b = 0
+a = 10.0
+b = 5.3
 
 print(calcoli.somma(a, b))
 print(calcoli.differenza(a, b))
