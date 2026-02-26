@@ -1,4 +1,4 @@
-from ErroreCustom import ErroreCustom
+from eccezioni.ErroreCustom import ErroreCustom
 
 
 def dividi(a, b):

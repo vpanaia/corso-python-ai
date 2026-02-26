@@ -1,4 +1,4 @@
-import calcoli
+from esercizi_moduli import calcoli
 
 a = 10.0
 b = 5.3
